@@ -1,5 +1,5 @@
 # Coffee_Shop ☕🍪
-Django and Python
+Esta app fue creada con Django and Python
 
 Tiendita de empredimiento para venta de dulces y café
 
